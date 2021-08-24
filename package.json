@@ -116,6 +116,14 @@
     "y18n": "^4.0.1",
     "yargs-parser": "^5.0.0-security.0"
   },
+  "resolves": {
+    "markdown-it-katex": "> 0.0.0",
+    "glob-parent": "~> 5.1.2",
+    "trim-newlines": "~> 3.0.1",
+    "electron": "~> 7.2.4",
+    "prismjs": "~> 1.24.0",
+    "normalize-url": "~> 4.5.1"
+  },
   "build": {
     "appId": "com.cosmox.lepton",
     "mac": {
