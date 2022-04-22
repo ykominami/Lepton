@@ -87,7 +87,7 @@
     "markdown-it-task-lists": "^2.1.1",
     "moment": "^2.22.2",
     "netmask": "^2.0.1",
-    "nconf": "^0.10.0",
+    "nconf": "^0.11.4",
     "node-fetch": "^2.6.1",
     "notebookjs": "^0.3.2",
     "postcss": "^8.2.10",
